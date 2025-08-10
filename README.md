@@ -13,7 +13,6 @@ Même si je n’ai pas pu finaliser le dernier projet en JavaScript, je continue
 
 - HTML5 / CSS3 (Flexbox, Responsive)
 - Intégration à partir de maquettes Figma
-- SASS (préprocesseur CSS)
 - Git & GitHub (versionnage, GitHub Pages)
 - Notions de JavaScript (en cours d’apprentissage)
 

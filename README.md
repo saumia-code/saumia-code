@@ -38,7 +38,7 @@ Je m’implique sérieusement dans chacun de mes projets et je cherche toujours 
 
 ## 📫 Me contacter
 
-- ✉️ [soumia@email.com](mailto:dev.soumia@gmail.com)
+- ✉️ [dev.soumia@gmail.com](mailto:dev.soumia@gmail.com)
 - 💼 [LinkedIn (à venir)]()
 
 ---

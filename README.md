@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Soumia Bouizran 👋
+## 👋 Bonjour, moi c'est Soumia Bouizran 
 
 Bienvenue sur mon Portfolio GitHub !
 
